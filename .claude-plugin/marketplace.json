@@ -1,0 +1,11 @@
+{
+  "name": "usage-live",
+  "owner": { "name": "CousHubb" },
+  "plugins": [
+    {
+      "name": "usage-live",
+      "source": "./",
+      "description": "Bande au-dessus du message : limites 5 h et 7 jours, contexte, cache chaud ou froid, coût du prochain message ; garde le cache chaud sur abonnement"
+    }
+  ]
+}
