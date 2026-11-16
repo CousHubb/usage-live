@@ -53,3 +53,7 @@ Les relances s'arrêtent dès qu'elles coûteraient, cumulées depuis ton dernie
 claude plugin validate .
 claude plugin test .
 ```
+
+## Licence
+
+[MIT](LICENSE)
